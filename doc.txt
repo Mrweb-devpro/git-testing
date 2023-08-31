@@ -1,0 +1,13 @@
+sass for free code camp lecture  vidio by codeSTACKr
+# meaning 
+sass is a css free extention language
+
+
+# setup 
+* code editor (vs code)
+
+your browser cant use sass with out compiling it into a css file you can use tools
+like go node.js etc to compile and convert your sass into pure css
+
+* live sass compiler extention
+ 
